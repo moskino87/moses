@@ -2,3 +2,5 @@ food
 lodging
 smoke
 drink
+sleep
+eat
